@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HolaMundo", "HolaMundo\HolaMundo.vbproj", "{C2F1228B-5948-4591-B9FE-002D3CF75A6A}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ControlDeFlujo", "ControlDeFlujo\ControlDeFlujo.vbproj", "{38850771-3F5E-4DA6-8215-2AA3F8471708}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C2F1228B-5948-4591-B9FE-002D3CF75A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2F1228B-5948-4591-B9FE-002D3CF75A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2F1228B-5948-4591-B9FE-002D3CF75A6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38850771-3F5E-4DA6-8215-2AA3F8471708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38850771-3F5E-4DA6-8215-2AA3F8471708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38850771-3F5E-4DA6-8215-2AA3F8471708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38850771-3F5E-4DA6-8215-2AA3F8471708}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
