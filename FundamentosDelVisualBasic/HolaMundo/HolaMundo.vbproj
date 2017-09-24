@@ -68,8 +68,16 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="1_2-Hambitos.vb" />
+    <Compile Include="Aritmetica.vb" />
     <Compile Include="CapitalAcumulado.vb" />
+    <Compile Include="Concatenacion.vb" />
+    <Compile Include="MayorDeTres.vb" />
     <Compile Include="Resolvente.vb" />
+    <Compile Include="Semanas.vb" />
+    <Compile Include="SumatoriaYMedia.vb" />
+    <Compile Include="ValorAbsPotenciaRaiz.vb" />
+    <Compile Include="ValorAproximado.vb" />
     <Compile Include="Variables.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">

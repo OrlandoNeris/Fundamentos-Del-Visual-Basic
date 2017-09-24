@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{38850771-3F5E-4DA6-8215-2AA3F8471708}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>ControlDeFlujo.VentaDescuento</StartupObject>
+    <StartupObject>ControlDeFlujo.DiasDelMes</StartupObject>
     <RootNamespace>ControlDeFlujo</RootNamespace>
     <AssemblyName>ControlDeFlujo</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -68,7 +68,12 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CaseAngulos.vb" />
     <Compile Include="CaseMeses.vb" />
+    <Compile Include="ConversionesEquivalencias.vb" />
+    <Compile Include="DiasDelMes.vb" />
+    <Compile Include="EnumMeses.vb" />
+    <Compile Include="DescuentoCase.vb" />
     <Compile Include="MayorDeCinco.vb" />
     <Compile Include="MayorMenorIgual.vb" />
     <Compile Include="MenorDeTres.vb" />
